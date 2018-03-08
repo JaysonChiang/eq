@@ -1,0 +1,18 @@
+div.earthquakemap {
+    float: left;
+}
+
+div.earthshockinfo02 {
+    float: left;
+    padding: 0 0 0 10px;
+    width: 55%;
+}
+table.BoxTable, table.BoxTableM{ width:98%; border:#d1d1d1 1px solid; padding:0; margin:0 auto 0 auto; border-collapse:collapse;}
+table.BoxTable th, table.BoxTableM th { font-weight:normal; background-color:#f4f4f4; text-align:center; border-bottom:#d1d1d1 1px solid; border-left:#d1d1d1 1px solid;padding:5px}
+table.BoxTable td {border-bottom:#d1d1d1 1px solid; border-left:#d1d1d1 1px solid; text-align:left;padding:5px 5px 5px 10px;}
+table.BoxTableM td{border-bottom:#d1d1d1 1px solid; border-left:#d1d1d1 1px solid; text-align:center;padding:5px 5px 5px 10px;}
+
+table.BoxTable td a, table.BoxTableM td a { color:#0054a6; text-decoration:none;}
+table.BoxTable td a:hover, table.BoxTableM td a:hover { color:#0054a6; text-decoration:underline;}
+table.BoxTable td img, table.BoxTableM td img { margin:0 auto; }
+table.BoxTable td.AreaTitle, table.BoxTableM td.AreaTitle { text-align:left;}
